@@ -55,3 +55,19 @@
 
 
 ![测试图片.png](https://s2.loli.net/2021/12/29/yWvaxhPqgeX52uV.png)
+
+
+上传文件
+```bash
+git add 文件名字
+git commit -m "文字说明"
+git push origin master
+```
+
+```c
+#include<stdio.h>
+int main( void ){
+	printf(“今天吃什么？\n");
+	return 0;
+}
+```
